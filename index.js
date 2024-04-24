@@ -1,4 +1,2 @@
-const root= responsive
+const root = frist
 document.createElement("div")
-console.log(root);
-console.log(root);
