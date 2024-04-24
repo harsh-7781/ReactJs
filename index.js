@@ -1,3 +1,4 @@
 const root= responsive
 document.createElement("div")
-root
+console.log(root);
+console.log(root);
